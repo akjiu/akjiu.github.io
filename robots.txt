@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://akjiu.github.io/Wcf/sitemap.Wcf.gz
